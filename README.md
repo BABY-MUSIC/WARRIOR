@@ -61,7 +61,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ### Deploy To Heroku 📡</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/vi2k6/Music-Player">
+  <a href="https://heroku.com/deploy?template=https://github.com/BABY-MUSIC/WARRIOR">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
