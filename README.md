@@ -3,7 +3,7 @@
 **A bot that can play music on telegram group's voice call.Telegram bot + userbot for streaming audio in group calls.**
 
 <p align="center">
-  <a href="https://github.com/vi2k6/music-player">
+  <a href="https://github.com/BABY-MUSIC/WARRIOR">
      <img height="30px" src="https://img.shields.io/badge/VC%20Player%20Bot-black?style=for-the-badge&logo=github">
   </a>
 </p>
